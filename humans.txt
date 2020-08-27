@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    anurag    anu@gmai.com  @asdas
 
 # THANKS
 

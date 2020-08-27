@@ -14,3 +14,7 @@ simple logic is there
 ##Github Pro
 
 simplysity is most wonderfull thing
+
+###Copyright
+
+2020 git.training

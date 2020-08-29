@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    anjali tarak mehta
     anurag    anu@gmai.com  @asdas
 
 # THANKS

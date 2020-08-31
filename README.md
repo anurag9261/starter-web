@@ -11,10 +11,10 @@ Sample website with plenty of files for demos
 simple logic is there asa
 
 
-##Github Pro
+##Github Pro Max pro
 
 simplysity is most wonderfull thing
 
 ###Copyright
 
-2020 git.training
+2020 git.training Max pro
